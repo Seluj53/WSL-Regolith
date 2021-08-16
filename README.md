@@ -35,7 +35,7 @@ Access the properties panel of vcxsrv.exe app and modify it like that:
 ## 6. Configure Regolith
 You can set the DPI scaling you want in the `Xresources` file.
 Copy the `wsl/regolith/config/regolith` folder under `~/.config/`.
-You can apply the custom regolith Github-dark theme by putting `wsl/regolith/styles/github-dark` under `/etc/regolith/themes`.
+You can apply the custom regolith Github-dark theme by putting `wsl/regolith/styles/github-dark` under `/etc/regolith/styles`.
 
 ## 7. You're all set !
 Here is what it should look like :
