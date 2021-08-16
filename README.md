@@ -10,6 +10,7 @@ You can follow this [tutorial](https://docs.microsoft.com/en-us/windows/wsl/inst
 Follow this Sourceforge link: [Vcxsrv](https://sourceforge.net/projects/vcxsrv/)
 
 ## 3. Install [Regolith](https://regolith-linux.org/)
+On WSL, run:
 ```shell
 sudo add-apt-repository ppa:regolith-linux/release
 sudo apt install regolith-desktop-standard
