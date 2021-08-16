@@ -1,0 +1,17 @@
+! Github-dark colors
+#define color_base03   #1e2228
+#define color_base02   #444c56
+#define color_base01   #cdd9e5
+#define color_base00   #636e7b
+#define color_base0    #909dab
+#define color_base1    #adbac7
+#define color_base2    #cdd9e5
+#define color_base3    #cdd9e5
+#define color_yellow   #daaa3f
+#define color_orange   #cc6b2c
+#define color_red      #e5534b
+#define color_magenta  #b083f0
+#define color_violet   #5936a2
+#define color_blue     #539bf5
+#define color_cyan     #76e3ea
+#define color_green    #6bc46d

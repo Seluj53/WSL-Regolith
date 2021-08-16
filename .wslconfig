@@ -1,0 +1,5 @@
+[wsl2]
+memory=4GB
+localhostForwarding=true
+processors=4
+guiApplications=false
