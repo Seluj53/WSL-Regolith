@@ -3,8 +3,8 @@
 #define color_base02   #444c56
 #define color_base01   #cdd9e5
 #define color_base00   #636e7b
-#define color_base0    #909dab
-#define color_base1    #adbac7
+#define color_base0    #e1e4e8
+#define color_base1    #e1e4e8
 #define color_base2    #cdd9e5
 #define color_base3    #cdd9e5
 #define color_yellow   #daaa3f
@@ -14,4 +14,4 @@
 #define color_violet   #5936a2
 #define color_blue     #539bf5
 #define color_cyan     #76e3ea
-#define color_green    #6bc46d
+#define color_green    #77DE90
