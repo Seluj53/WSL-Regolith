@@ -1,6 +1,7 @@
+#include "/etc/regolith/styles/github-dark/root"
 gnome.wallpaper: /usr/share/backgrounds/warty-final-ubuntu.png
 i3-wm.bar.position: top
 i3-wm.bar.mode: hide
-i3-wm.program.1: export DONT_PROMPT_WSL_INSTALL=1 && /usr/bin/code
-i3-wm.program.2: export DONT_PROMPT_WSL_INSTALL=1 && /usr/bin/code /home/
+!i3-wm.program.1: export DONT_PROMPT_WSL_INSTALL=1 && /usr/bin/code
+!i3-wm.program.2: export DONT_PROMPT_WSL_INSTALL=1 && /usr/bin/code /home/
 Xft.dpi: 110

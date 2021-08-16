@@ -5,4 +5,4 @@
 Set shell = CreateObject("WScript.Shell" ) 
 shell.Run """C:\Program Files\VcXsrv\vcxsrv.exe"" :0 -screen 0 @1 -ac +xinerama -engine 1 -nodecoration -wgl -keyhook -clipboard"
 WScript.Sleep 200
-shell.Run "ubuntu -c ""~/scripts/wlaunch""", 0
+shell.Run "ubuntu -c ""cd ~ && ~/scripts/wlaunch""", 0
