@@ -1,3 +1,5 @@
+# This is a guide for using Regolith and WSL together
+
 ## How to install regolith-i3 on WSL2
 
 ### 1. Install WSL2 Ubuntu
